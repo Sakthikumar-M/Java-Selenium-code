@@ -32,10 +32,20 @@ public class dropdown_value extends dynamic_browsers {
 		
 		WebElement n = null;
 		
+		// selecting x and y co-ordinate position using point class
+		
+		/*WebElement element = driver.findElement(By.id("hplogo"));
+		  
+		  Point location = element.getLocation();
+		  int x = location.getX();
+		  int y = location.getY();
+		  System.out.println("Coordinates of an element is : " + x + " and " + y);*/
+		
+		
 		for(int i=1;i<size;i++){
 			n = dr.findElement(By.xpath(x+i+y));
-			//if(n.getText().contains("ERANIEL"))
-			if(i==2){
+			if(n.getText().contains("ERANIEL"))
+			{
 				n.click();
 				break;
 			}
