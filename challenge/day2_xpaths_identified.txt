@@ -1,0 +1,35 @@
+//*[@id="search"]/div[1]/div[2]/div/span[3]/div[2]/div[3]/div/span/div/div/div/div/div[2]/h2/a/span
+//*[@id="search"]/div[1]/div[2]/div/span[3]/div[2]/div[4]/div/span/div/div/div/div/div[2]/h2/a/span
+//*[@id="search"]/div[1]/div[2]/div/span[3]/div[2]/div[5]/div/span/div/div/div/div/div[3]/h2/a/span
+//*[@id="search"]/div[1]/div[2]/div/span[3]/div[2]/div[6]/div/span/div/div/div[2]/h2/a/span
+
+/html/body/div[1]/div[2]/div[1]/div[2]/div/span[3]/div[2]/div[1]/span/span/div/div/div[1]/div[2]/div[1]/div/div[2]/a/span/span[1]
+
+/html/body/div[1]/div[2]/div[1]/div[2]/div/span[3]/div[2]/div[2]/div/span/div/div/div/div/div[2]/h2/a/span
+/html/body/div[1]/div[2]/div[1]/div[2]/div/span[3]/div[2]/div[3]/div/span/div/div/div/div/div[2]/h2/a/span
+/html/body/div[1]/div[2]/div[1]/div[2]/div/span[3]/div[2]/div[4]/div/span/div/div/div/div/div[2]/h2/a/span
+/html/body/div[1]/div[2]/div[1]/div[2]/div/span[3]/div[2]/div[5]/div/span/div/div/div[2]/h2/a/span/text()
+
+/html/body/div[1]/div[2]/div[1]/div[2]/div/span[3]/div[2]/div[34]/div/span/div/div/div/div/div[4]/div[2]/div/div/a/span[1]/span[1]
+
+
+//*[@class='a-section a-spacing-micro s-grid-status-badge-container']/span/div/div/div/div/span
+/html/body/div[1]/div[2]/div[1]/div[2]/div/span[3]/div[2]/div[2]/div/span/div/div/div/div/span
+
+
+(//*[@class='a-section a-spacing-none a-spacing-top-small'])[1]/h2/a/span
+(//*[@class='a-section a-spacing-none a-spacing-top-small'])[2]/div/div/div/a/span/span[2]/span[2]
+
+
+(//span[@class='a-price-whole'])[1]/preceding::i[1]
+
+(//span[contains(text(),"9,989")])[1]
+
+(//span[contains(text(),"13,199")])[1]/preceding::i[1]
+(//span[contains(text(),"5,998")])[1]/preceding::i[2]
+
+//*[@id="a-popover-content-3"]/div/div/div/div[1]/span
+//*[@id="a-popover-content-4"]/div/div/div/div[1]/span
+//*[@id="a-popover-content-5"]/div/div/div/div[1]/span
+
+//*[contains(@id,'a-popover-content')]/div/div/div/div/i/span
